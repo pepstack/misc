@@ -27,10 +27,34 @@ Path=.........;%JAVA_HOME%\bin;%JRE_HOME%\jre1.8.0_162\bin;%ANT_HOME%\bin;%MAVEN
 ## vocabulary
 
 - developer, dev
-
+- email
+- telephone, tel
+- phone
+- moblie phone,phone
+- address, addr
+- title, tit
+- age
+- gender, gdr
+- zone
+- zoneid, zid
+- range, rng
+- department, dept
+- organazation,orgn
+- group, grp
+- team
+- task
+- taskid, tid
+- event, evt
+- eventid, eid
+- date, dt
+- datetime, dtm
+- nano second, ns
+- micro second, us
+- milli second, ms
+- channel, chnl
+- media
 - game, ga
 - gameid,gid
-
 - profile
 - version, ver
 - publish, pub
